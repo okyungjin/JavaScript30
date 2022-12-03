@@ -10,6 +10,7 @@
 
 ## Progress
 | Day | Challenge                                                                                                  | Date       |  | 
-|-----|------------------------------------------------------------------------------------------------------------|------------|------|
-| 1   | [JavaScript Drum Kit](https://github.com/okyungjin/JavaScript30/tree/main/01%20-%20JavaScript%20Drum%20Kit) | 2022.12.01 | ✅    |
-| 2   | [JS and CSS Clock](https://github.com/okyungjin/JavaScript30/tree/main/02%20-%20JS%20and%20CSS%20Clock)    | 2022.12.02 | ✅    |
+|----|------------------------------------------------------------------------------------------------------------|------------|------|
+| 1  | [JavaScript Drum Kit](https://github.com/okyungjin/JavaScript30/tree/main/01%20-%20JavaScript%20Drum%20Kit) | 2022.12.01 | ✅    |
+| 2  | [JS and CSS Clock](https://github.com/okyungjin/JavaScript30/tree/main/02%20-%20JS%20and%20CSS%20Clock)    | 2022.12.02 | ✅    |
+| 3  | [CSS Variables](https://github.com/okyungjin/JavaScript30/tree/main/03%20-%20CSS%20Variables)              | 2022.12.03 | ✅    |
