@@ -14,4 +14,4 @@
 | 1   | [JavaScript Drum Kit](https://github.com/okyungjin/JavaScript30/tree/main/01%20-%20JavaScript%20Drum%20Kit) | 2022.12.01 | ✅    |
 | 2   | [JS and CSS Clock](https://github.com/okyungjin/JavaScript30/tree/main/02%20-%20JS%20and%20CSS%20Clock)    | 2022.12.02 | ✅    |
 | 3   | [CSS Variables](https://github.com/okyungjin/JavaScript30/tree/main/03%20-%20CSS%20Variables)              | 2022.12.03 | ✅    |
-| 4   | [Array Cardio Day 1](https://github.com/okyungjin/JavaScript30/tree/main/03%20-Array%20Cardio%20Day%201)              | 2022.12.04 | ✅    |
+| 4   | [Array Cardio Day 1](https://github.com/okyungjin/JavaScript30/tree/main/04%20-%20Array%20Cardio%20Day%201)              | 2022.12.04 | ✅    |
