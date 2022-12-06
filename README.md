@@ -9,10 +9,11 @@
 <br>
 
 ## Progress
-| Day | Challenge                                                                                                  | Date       |  | 
-|-----|------------------------------------------------------------------------------------------------------------|------------|------|
+| Day | Challenge                                                                                                   | Date       |  | 
+|-----|-------------------------------------------------------------------------------------------------------------|------------|------|
 | 1   | [JavaScript Drum Kit](https://github.com/okyungjin/JavaScript30/tree/main/01%20-%20JavaScript%20Drum%20Kit) | 2022.12.01 | ✅    |
-| 2   | [JS and CSS Clock](https://github.com/okyungjin/JavaScript30/tree/main/02%20-%20JS%20and%20CSS%20Clock)    | 2022.12.02 | ✅    |
-| 3   | [CSS Variables](https://github.com/okyungjin/JavaScript30/tree/main/03%20-%20CSS%20Variables)              | 2022.12.03 | ✅    |
-| 4   | [Array Cardio Day 1](https://github.com/okyungjin/JavaScript30/tree/main/04%20-%20Array%20Cardio%20Day%201)              | 2022.12.04 | ✅    |
-| 5   | [Flex Panel Gallery](https://github.com/okyungjin/JavaScript30/tree/main/05%20-%20Flex%20Panel%20Gallery)              | 2022.12.05 | ✅    |
+| 2   | [JS and CSS Clock](https://github.com/okyungjin/JavaScript30/tree/main/02%20-%20JS%20and%20CSS%20Clock)     | 2022.12.02 | ✅    |
+| 3   | [CSS Variables](https://github.com/okyungjin/JavaScript30/tree/main/03%20-%20CSS%20Variables)               | 2022.12.03 | ✅    |
+| 4   | [Array Cardio Day 1](https://github.com/okyungjin/JavaScript30/tree/main/04%20-%20Array%20Cardio%20Day%201) | 2022.12.04 | ✅    |
+| 5   | [Flex Panel Gallery](https://github.com/okyungjin/JavaScript30/tree/main/05%20-%20Flex%20Panel%20Gallery)   | 2022.12.05 | ✅    |
+| 6   | [Type Ahead](https://github.com/okyungjin/JavaScript30/tree/main/06%20-%20Type%20Ahead)           | 2022.12.06 | ✅    |
