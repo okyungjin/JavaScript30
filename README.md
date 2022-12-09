@@ -19,3 +19,4 @@
 | 6   | [Type Ahead](https://github.com/okyungjin/JavaScript30/tree/main/06%20-%20Type%20Ahead)           | 2022.12.06 | ✅    |
 | 7   | [Array Cardio Day 2](https://github.com/okyungjin/JavaScript30/tree/main/07%20-%20Array%20Cardio%20Day%202)           | 2022.12.07 | ✅    |
 | 8   | [Fun with HTML5 Canvas](https://github.com/okyungjin/JavaScript30/tree/main/08%20-%20Fun%20with%20HTML5%20Canvas)           | 2022.12.08 | ✅    |
+| 9   | [Dev Tools Domination](https://github.com/okyungjin/JavaScript30/tree/main/09%20-%20Dev%20Tools%20Domination)           | 2022.12.09 | ✅    |
