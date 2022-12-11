@@ -21,3 +21,4 @@
 | 8   | [Fun with HTML5 Canvas](https://github.com/okyungjin/JavaScript30/tree/main/08%20-%20Fun%20with%20HTML5%20Canvas)           | 2022.12.08 | ✅    |
 | 9   | [Dev Tools Domination](https://github.com/okyungjin/JavaScript30/tree/main/09%20-%20Dev%20Tools%20Domination)           | 2022.12.09 | ✅    |
 | 10  | [Hold Shift and Check Checkboxes](https://github.com/okyungjin/JavaScript30/tree/main/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)           | 2022.12.10 | ✅    |
+| 11  | [Custom Video Player](https://github.com/okyungjin/JavaScript30/tree/main/11%20-%20Custom%20Video%20Player)           | 2022.12.11 | ✅    |
