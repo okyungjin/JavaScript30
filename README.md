@@ -23,3 +23,4 @@
 | 10  | [Hold Shift and Check Checkboxes](https://github.com/okyungjin/JavaScript30/tree/main/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)           | 2022.12.10 | ✅    |
 | 11  | [Custom Video Player](https://github.com/okyungjin/JavaScript30/tree/main/11%20-%20Custom%20Video%20Player)           | 2022.12.11 | ✅    |
 | 12  | [Key Sequence Detection](https://github.com/okyungjin/JavaScript30/tree/main/12%20-%20Key%20Sequence%20Detection)           | 2022.12.12 | ✅    |
+| 13  | [Slide in on Scroll](https://github.com/okyungjin/JavaScript30)           | 2022.12.13 | ✅    |
